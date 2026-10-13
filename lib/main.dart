@@ -20,7 +20,7 @@ part 'delivery.dart';
 // (it ends in /exec). See README.md. While it is empty the app runs in DEMO
 // mode (customers can browse; nothing is saved and staff cannot sign in).
 // ---------------------------------------------------------------------------
-const String kApiUrl = 'https://script.google.com/macros/s/AKfycbwA38fpQQAExaL9V25r3RmISuSrEfvY9GBKSjFU54LUMHWwug__hPcLxUwuvpBcZqEs/exec';
+const String kApiUrl = 'https://script.google.com/macros/s/AKfycbxN-PEGna8NiuDA3CMm82-rl-lT6ptOhrHqceh9DjQVnX2Db55IkML98XFkziy9FAQ/exec';
 
 const String kSessionExpired = 'SESSION_EXPIRED';
 
